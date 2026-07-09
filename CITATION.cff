@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "OasisCrop code"
+message: "If you use this software, please cite the associated OasisCrop data paper and software release."
+type: software
+authors:
+  - family-names: Zhuang
+    given-names: Qingwei
+    orcid: "https://orcid.org/0000-0001-8243-5216"
+  - family-names: Zhang
+    given-names: Zhenbei
+  - family-names: Xu
+    given-names: Jialei
+    orcid: "https://orcid.org/0009-0004-5272-0488"
+  - family-names: Shao
+    given-names: Zhenfeng
+  - family-names: Wang
+    given-names: Yugang
+  - family-names: Qi
+    given-names: Chen
+  - family-names: Geng
+    given-names: Chan
+  - family-names: Yu
+    given-names: Kaihui
+  - family-names: Li
+    given-names: Deren
+version: "1.0.0"
+date-released: "2026-07-09"
+license: "MIT"
