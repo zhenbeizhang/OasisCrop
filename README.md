@@ -2,7 +2,7 @@
 
 This repository contains the public code for **OasisCrop v1.0**, a 1 m visible net annual-crop surface dataset for arid oasis agriculture in Xinjiang, China.
 
-The repository is organized as a reproducible code release rather than a copy of the local experiment workspace. It excludes restricted source imagery, released data products, annotation rasters, trained checkpoints, local paths, temporary outputs, and historical experiment folders. Data products and annotation samples are deposited separately in Zenodo or another long-term repository.
+The repository is organized as a reproducible code release rather than a copy of the local experiment workspace. It excludes restricted source imagery, released data products, annotation rasters, trained checkpoints, local paths, temporary outputs, and historical experiment folders. Data products and annotation samples are deposited separately in Zenodo.
 
 ## Contents
 
@@ -72,4 +72,10 @@ The public code can reproduce the documented model training, inference, post-pro
 
 ## Repository release
 
-This folder is prepared for the OasisCrop v1.0 GitHub repository. After uploading, create a `v1.0.0` release and archive the release with Zenodo or another software DOI provider. Link the software DOI, data DOI, and manuscript bidirectionally once the repository records are available.
+This repository corresponds to the OasisCrop v1.0.0 code release under the MIT License. The associated records are:
+
+- Software release: <https://github.com/zhenbeizhang/OasisCrop/releases/tag/v1.0.0>
+- Main data product: <https://doi.org/10.5281/zenodo.21252320>
+- Annotation samples: <https://doi.org/10.5281/zenodo.21256628>
+
+If a software DOI is archived later, cite the archived software DOI in preference to the live repository URL.
